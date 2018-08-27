@@ -1,5 +1,5 @@
 A minimal repro repo for the problem described
-[here]
+[here](https://github.com/pantsbuild/pants/issues/6401)
 
 
 To see the issue, run:
